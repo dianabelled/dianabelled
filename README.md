@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dianabelled
-- 👀 I’m interested in building apps.
+- 👋 Hi, I’m @dianabelled. I'm new to technology, coding and building apps.
+- 👀 I’m currenrly interested in coding.
 - 🌱 I’m currently learning how to code or program via Gritlab
 
 <!---
